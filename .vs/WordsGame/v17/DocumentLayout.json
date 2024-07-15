@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38EAB68C-1BAB-4117-ADF0-B09A5F319AF4}|WordsGame\\WordsGame.csproj|C:\\Project\\wordsgame\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{38EAB68C-1BAB-4117-ADF0-B09A5F319AF4}|WordsGame\\WordsGame.csproj|solutionrelative:wordsgame\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EAB68C-1BAB-4117-ADF0-B09A5F319AF4}|WordsGame\\WordsGame.csproj|c:\\project\\wordsgame\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EAB68C-1BAB-4117-ADF0-B09A5F319AF4}|WordsGame\\WordsGame.csproj|solutionrelative:wordsgame\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EAB68C-1BAB-4117-ADF0-B09A5F319AF4}|WordsGame\\WordsGame.csproj|c:\\project\\wordsgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EAB68C-1BAB-4117-ADF0-B09A5F319AF4}|WordsGame\\WordsGame.csproj|solutionrelative:wordsgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EAB68C-1BAB-4117-ADF0-B09A5F319AF4}|WordsGame\\WordsGame.csproj|C:\\Project\\wordsgame\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{38EAB68C-1BAB-4117-ADF0-B09A5F319AF4}|WordsGame\\WordsGame.csproj|solutionrelative:wordsgame\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EAB68C-1BAB-4117-ADF0-B09A5F319AF4}|WordsGame\\WordsGame.csproj|c:\\project\\wordsgame\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EAB68C-1BAB-4117-ADF0-B09A5F319AF4}|WordsGame\\WordsGame.csproj|solutionrelative:wordsgame\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EAB68C-1BAB-4117-ADF0-B09A5F319AF4}|WordsGame\\WordsGame.csproj|C:\\Project\\wordsgame\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{38EAB68C-1BAB-4117-ADF0-B09A5F319AF4}|WordsGame\\WordsGame.csproj|solutionrelative:wordsgame\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 249,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Project\\WordsGame\\Form1.cs",
+              "RelativeDocumentMoniker": "WordsGame\\Form1.cs",
+              "ToolTip": "C:\\Project\\WordsGame\\Form1.cs",
+              "RelativeToolTip": "WordsGame\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T09:56:44.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Project\\WordsGame\\Form4.cs",
+              "RelativeDocumentMoniker": "WordsGame\\Form4.cs",
+              "ToolTip": "C:\\Project\\WordsGame\\Form4.cs",
+              "RelativeToolTip": "WordsGame\\Form4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T08:20:46.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Project\\WordsGame\\Form2.cs",
+              "RelativeDocumentMoniker": "WordsGame\\Form2.cs",
+              "ToolTip": "C:\\Project\\WordsGame\\Form2.cs",
+              "RelativeToolTip": "WordsGame\\Form2.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:36:26.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Project\\WordsGame\\Form3.cs",
+              "RelativeDocumentMoniker": "WordsGame\\Form3.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\Desktop\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F\\WordsGame\\WordsGame\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\Users\\Xiaomi\\Desktop\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F\\WordsGame\\WordsGame\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:36:40.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Project\\WordsGame\\Form4.cs",
+              "RelativeDocumentMoniker": "WordsGame\\Form4.cs",
+              "ToolTip": "C:\\Project\\WordsGame\\Form4.cs [Design]",
+              "RelativeToolTip": "WordsGame\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:33:38.486Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Project\\WordsGame\\Form2.cs",
+              "RelativeDocumentMoniker": "WordsGame\\Form2.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\Desktop\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F\\WordsGame\\WordsGame\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\Users\\Xiaomi\\Desktop\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F\\WordsGame\\WordsGame\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T06:54:22.546Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 12,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

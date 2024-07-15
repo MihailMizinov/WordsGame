@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WordsGame": {
+      "commandName": "Project",
+      "hotReloadEnabled": false
+    }
+  }
+}
